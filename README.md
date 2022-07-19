@@ -1,0 +1,2 @@
+# frittomisto
+Collection of utilities
